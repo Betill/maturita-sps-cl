@@ -1,6 +1,6 @@
 # Název díla - Jméno autora
 
-## Analýza úměleckého textu
+## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
 
@@ -20,10 +20,10 @@
 
 ### Typy promluv
 
-### Veršovaná výstavba
+### Veršová výstavba
 
 ## Literárněhistorický kontext
 
 ### Kontext autorovy tvorby
 
-### Literální / obecně kulturní kontext
+### Literární / obecně kulturní kontext
